@@ -1,4 +1,4 @@
-# CS 442 MP3: Yahtzee
+# Yahtzee Gaming App
 
 Implemented a single-player [Yahtzee](https://en.wikipedia.org/wiki/Yahtzee) game. Yahtzee is a dice game in which the player rolls five dice up to three times in an attempt to achieve various scoring combinations. The player's score is determined by the sum of the values of the dice when a scoring combination is achieved.
 
